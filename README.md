@@ -3,7 +3,7 @@ Un petit jeu de Slot comme vu dans les casinos fait en C#
 
 ---
 
-**With love, Elizabeth** ❤️
+**With love, Daegatoya** ❤️
          
 <p align="center">
 
